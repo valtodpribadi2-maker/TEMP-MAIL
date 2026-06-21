@@ -1,0 +1,6 @@
+{
+  "name": "CF Temp Mail",
+  "description": "Generator alamat email sementara menggunakan API Cloudflare Email Routing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
